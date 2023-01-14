@@ -1,5 +1,5 @@
 {
-    "stack": "heroku-20",
+    "stack": "heroku-18",
     "name": "AvaIre",
     "description": "AvaIre is a high quality Music bot, with moderation, interaction, search, administration commands, highly customizable and much more!",
     "keywords": [
